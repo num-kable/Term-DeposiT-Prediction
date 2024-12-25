@@ -11,3 +11,6 @@ The model helps banks focus on high-potential customers, optimizing marketing ef
 # Future Enhancements
 Incorporate additional customer attributes for deeper insights.
 Explore advanced ML techniques (e.g., Random Forests, Gradient Boosting) for better performance.
+
+# Output
+![image](https://github.com/user-attachments/assets/b4929c14-6c17-41c0-8d17-036f21db360f)
